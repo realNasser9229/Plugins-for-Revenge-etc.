@@ -1,0 +1,8 @@
+{
+  "id": "anipfp",
+  "name": "AniPFP",
+  "description": "Animated profile pictures without Nitro + rainbow spin",
+  "version": "1.0.0",
+  "author": "YourNameHere",
+  "entrypoint": "index.js"
+}
