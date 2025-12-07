@@ -1,8 +1,0 @@
-{
-  "id": "anipfp",
-  "name": "AniPFP",
-  "description": "Animated profile pictures + rainbow spinning border without Nitro 🔥",
-  "version": "1.0.0",
-  "author": "Nas9229alt",
-  "entrypoint": "index.js"
-}
